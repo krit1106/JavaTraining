@@ -9,5 +9,7 @@ public static void main(String [] args) {
     for (int i = words.length - 1; i >= 0; i--) {
         System.out.println(words[i]);
     }
+
+    System.out.println("The end of the program......!!!");
 }
 }
